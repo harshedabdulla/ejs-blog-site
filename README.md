@@ -12,7 +12,7 @@ EJS is a simple templating language that is used to generate HTML markup with pl
 ## Getting Started
 To get started using this EJS blog site, you will need to have Node.js and npm installed on your computer. You can then clone this repository and install the necessary dependencies by running the following commands:
 
-`git clone https://github.com/your-username/ejs-blog-site.git`
+`git clone https://github.com/harshedabdulla/ejs-blog-site.git`
 
 `cd ejs-blog-site`
 
